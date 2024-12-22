@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+pdfplumber
+langchain-community
+langchain-core
+langchain-openai
+chromadb
+ollama-python
+tiktoken
